@@ -24,3 +24,6 @@ Les contrats intelligents sont des programmes stockés dans une blockchain. Ils 
 # Statiquement typé
 Solidity est statiquement typé, ce qui signifie que le contrôle de type se produit au moment de la compilation, et non au moment de l’exécution comme avec les langages dynamiquement typés. Avec un langage statiquement typé, vous avez besoin de spécifier le type de chaque variable. Par exemple, Python et JavaScript sont des langages dynamiquement typés, alors que C++ est statiquement typé.
 
+# Machine virtuelle Ethereum / EVM
+Les contrats Solidity s’exécutent sur la machine virtuelle Ethereum, ou EVM (Ethereum Virtual Machine). Il s’agit d’un environnement bac à sable (sandbox) entièrement isolé. EVM n’accède à rien d’autre sur le réseau que les contrats qu’elle exécute. Vous n’avez pas besoin d’en savoir beaucoup plus sur EVM pour l’instant, mais souvenez-vous que des contrats intelligents Solidity vont être déployés pour être exécutés dans un environnement virtuel.
+
