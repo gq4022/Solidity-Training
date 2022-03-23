@@ -21,3 +21,6 @@ Les contrats intelligents sont des programmes stockés dans une blockchain. Ils 
 
 • Les workflows, au sens logiciel permettent de modéliser « informatiquement » les processus métier. Ils sont utilisés pour automatiser et améliorer l'efficacité des activités d'une entreprise, et donc de ses processus métier.27 avr. 2017
 
+# Statiquement typé
+Solidity est statiquement typé, ce qui signifie que le contrôle de type se produit au moment de la compilation, et non au moment de l’exécution comme avec les langages dynamiquement typés. Avec un langage statiquement typé, vous avez besoin de spécifier le type de chaque variable. Par exemple, Python et JavaScript sont des langages dynamiquement typés, alors que C++ est statiquement typé.
+
