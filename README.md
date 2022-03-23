@@ -15,3 +15,9 @@
 Expliquer ce qu’est Solidity et le mode de fonctionnement des fonctionnalités du langage.
 Comprendre les composants d’un contrat intelligent.
 Créer un contrat intelligent simple avec Solidity.
+
+# Smartcontract Solidity
+Les contrats intelligents sont des programmes stockés dans une blockchain. Ils spécifient les règles et le comportement de transfert des ressources numériques. Vous utilisez Solidity pour programmer des contrats intelligents pour la plateforme blockchain Ethereum. Les contrats intelligents contiennent l’état et la logique programmable. Les transactions génèrent des fonctions exécutées dans des contrats intelligents. Ainsi, les contrats intelligents vous permettent de créer un workflow métier.<br/>
+
+• Les workflows, au sens logiciel permettent de modéliser « informatiquement » les processus métier. Ils sont utilisés pour automatiser et améliorer l'efficacité des activités d'une entreprise, et donc de ses processus métier.27 avr. 2017
+
