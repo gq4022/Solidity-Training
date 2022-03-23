@@ -12,3 +12,6 @@
 
 ## Outils
 • Solidity, Web3.JS, Truffle, Metamask, Remix
+Expliquer ce qu’est Solidity et le mode de fonctionnement des fonctionnalités du langage.
+Comprendre les composants d’un contrat intelligent.
+Créer un contrat intelligent simple avec Solidity.
