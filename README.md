@@ -27,3 +27,9 @@ Solidity est statiquement typé, ce qui signifie que le contrôle de type se pro
 # Machine virtuelle Ethereum / EVM
 Les contrats Solidity s’exécutent sur la machine virtuelle Ethereum, ou EVM (Ethereum Virtual Machine). Il s’agit d’un environnement bac à sable (sandbox) entièrement isolé. EVM n’accède à rien d’autre sur le réseau que les contrats qu’elle exécute. Vous n’avez pas besoin d’en savoir beaucoup plus sur EVM pour l’instant, mais souvenez-vous que des contrats intelligents Solidity vont être déployés pour être exécutés dans un environnement virtuel.
 
+## Types
+
+uint : unsigned type (entier non signé de 256 bits - nombre positif compris dans la plage allant de 0 à 2^^256-1.<br/>
+public : la variable d’état fait partie de l’interface du contrat et elle est accessible à partir d’autres contrats.
+internal : accessible en interne uniquement à partir du contrat actuel.
+private : visible uniquement pour le contrat dans lequel elle est définie.
