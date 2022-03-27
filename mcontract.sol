@@ -1,6 +1,6 @@
 pragma solidity >0.8.0;
 
-contract Marketplace {
+contract mplace {
     address payable public seller;
     address payable public buyer;
 
@@ -33,7 +33,7 @@ contract Items {
     }
 }
 
-contract Marketplace {
+contract _mplace {
     address public seller;
     address public buyer;
     mapping (address => uint) public balances;
